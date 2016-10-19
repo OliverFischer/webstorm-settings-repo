@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="MongoDB Shell" description="A MongoDB Shell" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/Cellar/mongodb/3.0.2/bin/mongo" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="/usr/local/Cellar/mongodb/3.0.2/bin" />
+    </exec>
+  </tool>
+</toolSet>

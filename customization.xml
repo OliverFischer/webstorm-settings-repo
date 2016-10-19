@@ -1,0 +1,178 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Tools.Sencha.ScaffoldViewPackage" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.ScaffoldViewPackage" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.ScaffoldViewPackage" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.ScaffoldViewPackage" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewClass" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewClass" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewClass" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewClass" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewApp" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewApp" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewApp" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewApp" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewWorkspace" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewWorkspace" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewWorkspace" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewWorkspace" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewPackage" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewPackage" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewPackage" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tools.Sencha.NewPackage" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <path value="New" />
+      <path value="Sencha" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>

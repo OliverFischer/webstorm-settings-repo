@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="472356bf-c7f0-47a0-b97a-6c511cf7d844" name="MobileApp" url="http://localhost:8081">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="2c87c62c-d044-4f0d-b2bb-a6345de3110e" name="Node" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
